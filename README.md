@@ -45,7 +45,7 @@ A grid report categorized by *Loan Status* showing:
 
 This grid allows for better loan performance assessment and data-driven decision-making.
 
-![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/5581aafd694b5f7a37eca3e82e2163d1cd3c65b0/image4-bank-mssql.png)
+![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/fa5472eb04f6d66118b520fc87c8211daad9c883/image1-bank-mssql.png)
 
 ---
 
