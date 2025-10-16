@@ -45,6 +45,8 @@ A grid report categorized by *Loan Status* showing:
 
 This grid allows for better loan performance assessment and data-driven decision-making.
 
+![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/5581aafd694b5f7a37eca3e82e2163d1cd3c65b0/image4-bank-mssql.png)
+
 ---
 
 ### **Dashboard 2: Overview**
@@ -63,6 +65,8 @@ The **Overview Dashboard** visualizes trends and distributions to understand len
 - Total Funded Amount  
 - Total Amount Received  
 
+![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/5581aafd694b5f7a37eca3e82e2163d1cd3c65b0/image2-bank-mssql.png)
+
 ---
 
 ### **Dashboard 3: Details**
@@ -76,6 +80,10 @@ To provide a one-stop, user-friendly interface for exploring:
 - Performance metrics  
 
 This dashboard enhances transparency and supports in-depth analysis of the loan portfolio.
+
+![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/5581aafd694b5f7a37eca3e82e2163d1cd3c65b0/image3-bank-mssql.png)
+
+![image alt](https://github.com/asif684/Bank-Financial-Analytics-PowerBI-MSsql-Server-Dashboard/blob/5581aafd694b5f7a37eca3e82e2163d1cd3c65b0/image4-bank-mssql.png)
 
 ---
 
